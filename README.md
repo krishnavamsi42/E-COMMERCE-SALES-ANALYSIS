@@ -32,7 +32,7 @@ The dataset contains raw e-commerce transaction records, and the key challenge i
 5. **Final Dashboard Layout**: Organize the dashboard to provide a clear and intuitive view of the most important business metrics at a glance.
    
 
-<img src="https://github.com/krishnavamsi42/E-COMMERCE-SALES-ANALYSIS/blob/main/Dashboard_image" alt="DASHBOARD" width="1600"/>
+<img src="https://github.com/krishnavamsi42/E-COMMERCE-SALES-ANALYSIS/blob/main/Dashboard_image.png" alt="DASHBOARD" width="1600"/>
 
 ## Findings
 - **High Sales Months**: Sales peaked in Q4, particularly in November and December, likely due to seasonal factors such as holiday sales.
