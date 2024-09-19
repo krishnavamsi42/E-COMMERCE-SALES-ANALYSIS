@@ -32,7 +32,7 @@ The dataset contains raw e-commerce transaction records, and the key challenge i
 5. **Final Dashboard Layout**: Organize the dashboard to provide a clear and intuitive view of the most important business metrics at a glance.
    
 
-<img src="https://github.com/krishnavamsi42/E-COMMERCE-SALES-ANALYSIS/blob/main/eCommerce.jpeg" alt="" width="600"/>
+<img src="https://github.com/krishnavamsi42/E-COMMERCE-SALES-ANALYSIS/blob/main/Screenshot%202024-09-19%20143523.png" alt="DASHBOARD" width="1600"/>
 
 
 
